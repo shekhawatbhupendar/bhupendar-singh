@@ -1,0 +1,297 @@
+*
+ul
+{
+    padding: 0px;
+    margin: 0px;
+}
+.text3 ul li {
+background:white;
+width: 290px;
+height: 30px;
+line-height:30px;
+float: right;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin-bottom: 80px;
+}
+ul li a{
+    color:chocolate;
+    text-decoration: none;
+    font: 16px "public-sans",sans-serif;
+}
+   
+
+.cust_tel_class {
+    color: #ee7e1a;
+    font-size: 18px;
+        margin-top: 3px;
+    font-weight: 600;
+    text-shadow: 1px 1px #d2d2d2;
+    color: #EE7E14;
+    font: 18px Roboto;
+    font-family: sans-serif;
+    margin: 3px 0px 0px;
+    padding: 3.6px 10px;
+
+}.text4 p{
+        color: #074A76;
+    font: 16px verdana,geneva,sans-serif;
+    margin: 0px 0px 10px;
+    margin-left: 180px;
+    }
+.text5 p{
+    font: 20px verdana,geneva,sans-serif;
+    color: #074A76;
+}
+span{
+    float: right;
+}
+
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+style attribute {
+    opacity: 1;
+    visibility: visible;
+    animation: 0s ease 0s 1 normal none running none;
+}
+center h3{
+    color:#064B76;
+    font: 28.8px roboto,sans-serif;
+    margin: 0px 0px 32px;
+    text-align: center;
+}
+.col8 {
+    width: 66.66%;
+}
+[class*=col] {
+    float: left;
+    padding: 12px;
+}
+* {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+style attribute {
+    opacity: 1;
+    visibility: visible;
+    animation: 0s ease 0s 1 normal none running none;
+}
+.Full-Load {
+    color: inherit;
+    font-weight: 400;
+    font-size: 21px;
+    font-weight: bold;
+    margin: 10px 0 20px;
+    }
+    p {
+    font-family: inherit;
+    color: #282528;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: .5px;
+    line-height: 1.8;
+    margin: 0 0 10px;
+}
+.col4-t-w50-pad0-tv100
+{
+    display: flex;
+}
+.text10{
+    margin-right: 60px;
+    
+}
+.class*=col] {
+    float: left;
+    padding: 12px;
+}
+
+}
+.text11{
+float: left;
+margin-top: 80px;
+}
+.img1{
+margin-bottom: 160px;
+}
+ h3.section-head.marg0 {
+ 
+    color:#064B76;
+    font: 28.8px roboto,sans-serif;
+   margin: 0px 0px 32px;
+}
+.col4 {
+    width: 33.33%;
+}
+[class*=col] {
+    float: left;
+    padding: 12px;
+
+}
+* {
+    box-sizing: border-box;
+}
+
+div {
+    display:inline-block;
+}
+.center {
+    text-align: center;
+}
+style attribute {
+    opacity: 1;
+    visibility: visible;
+    animation: 0s ease 0s 1 normal none running none;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto,sans-serif;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.5;
+    text-align: left;
+    background-color: #fff;
+    color: #333;
+    --blue: #064B76;
+    --gray: #8A888A;
+    --orange: #EE7E1A;
+}
+body {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+}
+
+.container4{
+    max-width:2000px;
+    height: 700px;
+    margin: auto;
+    background-color:#0c3956 ;
+    margin-left: 80px;
+    
+}
+.row
+{
+    
+display: flex;
+flex-wrap: wrap;
+
+}
+.text25 ol{
+    list-style: none;
+        
+}
+
+.footer3 {
+        
+    box-sizing: border-box;
+    padding: 70px o;
+}
+.footer-col1
+{
+    width: 30%;
+    padding: 0 15px;
+        float: left;
+
+}
+.footer-col1 h1
+{
+font-size: 1.2em;
+    font-weight: 600;
+    color: #f38634;
+    padding-bottom: 10px;
+}
+.footer-col1 p{
+font-size: 15px;
+    line-height: 1.8em;
+    color: #fff;
+    padding-right: 30px;
+    text-align: justif;
+
+
+
+
+}
+.footer-col1 h4{
+    font-size: 1.2em;
+    font-weight: 600;
+    color: #f38634;
+    padding-bottom: 10px;
+}
+.footer3 ol li a
+{
+color: #ffffff;
+font-size: 16px;
+    line-height: 2.0em;
+    
+    padding-right: 30px;
+}
+a
+{
+font-family: inherit;
+    display: block;
+    text-decoration: none;
+    transition: all .5s ease 0;
+    cursor: pointer;
+    text-decoration: none;
+
+
+
+
+}
+ol li a:hover
+{
+    color:#f38634; 
+}
+.footer-col1 h4:: before{
+content: '';
+position: absolute;
+left: 0;
+bottom: -10px;
+background-color: #e91e;
+
+
+
+
+}
+.socialnetwork
+i 
+{
+
+    color:moccasin;
+    width: 5%;
+    float: left;
+    transition: all .5s ease 0;
+    cursor: pointer;
+        visibility: visible;
+    transition: 1s;
+    border-radius: 60px;
+}
+i:hover
+{
+transform: scale(1.3);
+z-index: 1;
+
+}
+.footer-col1 .social-links a :hover{
+    color: #24262b ;
+    background-color: white;
+}
+
+    
+    
+marquee{
+    justify-content: space-between;
+    display: inline-block;
+}
